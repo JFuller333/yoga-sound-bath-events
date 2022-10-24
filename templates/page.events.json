@@ -3,8 +3,8 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "a00139c5-2d22-4bce-9816-6c6a7f0fd493": {
@@ -13,41 +13,29 @@
         "template--16660919615778__a00139c5-2d22-4bce-9816-6c6a7f0fd493-1666582151f412dbd4-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "",
             "heading_size": "h1"
           }
         },
         "template--16660919615778__a00139c5-2d22-4bce-9816-6c6a7f0fd493-1666582151f412dbd4-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "",
             "text_style": "body"
-          }
-        },
-        "template--16660919615778__a00139c5-2d22-4bce-9816-6c6a7f0fd493-1666582151f412dbd4-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
         "template--16660919615778__a00139c5-2d22-4bce-9816-6c6a7f0fd493-1666582151f412dbd4-0",
-        "template--16660919615778__a00139c5-2d22-4bce-9816-6c6a7f0fd493-1666582151f412dbd4-1",
-        "template--16660919615778__a00139c5-2d22-4bce-9816-6c6a7f0fd493-1666582151f412dbd4-2"
+        "template--16660919615778__a00139c5-2d22-4bce-9816-6c6a7f0fd493-1666582151f412dbd4-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Yoga_Biz_Card_Image_2.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
@@ -129,6 +117,7 @@
         "template--16660919615778__ae55f694-5f55-4583-a4fb-9e28dba7a422-1666582151ba3d6e5b-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Final.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -172,6 +161,7 @@
         "template--16660919615778__b18627a1-7ce9-40d3-8998-4df1e67b95dc-1666582204325d0c44-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Yoga_Sound_Bath_Flyer_Updated.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
