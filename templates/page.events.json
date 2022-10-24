@@ -183,6 +183,7 @@
         },
         "template--16660919615778__ae55f694-5f55-4583-a4fb-9e28dba7a422-1666582151ba3d6e5b-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -214,19 +215,20 @@
         "template--16660919615778__b18627a1-7ce9-40d3-8998-4df1e67b95dc-1666582204325d0c44-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Yoga & Sound Healing Bath at Florence Fresh",
             "heading_size": "h1"
           }
         },
         "template--16660919615778__b18627a1-7ce9-40d3-8998-4df1e67b95dc-1666582204325d0c44-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Saturday, April 23nd 2022<\/p>",
             "text_style": "body"
           }
         },
         "template--16660919615778__b18627a1-7ce9-40d3-8998-4df1e67b95dc-1666582204325d0c44-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -258,7 +260,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Subscribe to our emails",
+            "heading": "Subscribe to our email list",
             "heading_size": "h1"
           }
         },
