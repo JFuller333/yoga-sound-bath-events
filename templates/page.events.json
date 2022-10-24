@@ -49,7 +49,7 @@
         "template--16660919615778__8b8cfa1a-e528-4cd3-af2b-717cb483bbcc-1666583671dd195323-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
+            "heading": "<p>Illumi Yoga & Free Vibrationsss Events<\/p>",
             "heading_size": "h1"
           }
         },
@@ -58,23 +58,34 @@
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
-        },
-        "template--16660919615778__8b8cfa1a-e528-4cd3-af2b-717cb483bbcc-1666583671dd195323-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "template--16660919615778__8b8cfa1a-e528-4cd3-af2b-717cb483bbcc-1666583671dd195323-0",
-        "template--16660919615778__8b8cfa1a-e528-4cd3-af2b-717cb483bbcc-1666583671dd195323-1",
-        "template--16660919615778__8b8cfa1a-e528-4cd3-af2b-717cb483bbcc-1666583671dd195323-2"
+        "template--16660919615778__8b8cfa1a-e528-4cd3-af2b-717cb483bbcc-1666583671dd195323-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "fd826506-eb6e-4b81-912d-a00b7ea928d1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16660919615778__fd826506-eb6e-4b81-912d-a00b7ea928d1-1666583832befde3b6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Next Event<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--16660919615778__fd826506-eb6e-4b81-912d-a00b7ea928d1-1666583832befde3b6-0"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -316,41 +327,18 @@
         "padding_top": 68,
         "padding_bottom": 52
       }
-    },
-    "fd826506-eb6e-4b81-912d-a00b7ea928d1": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16660919615778__fd826506-eb6e-4b81-912d-a00b7ea928d1-1666583832befde3b6-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Next Event<\/p>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "template--16660919615778__fd826506-eb6e-4b81-912d-a00b7ea928d1-1666583832befde3b6-0"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "main",
     "a00139c5-2d22-4bce-9816-6c6a7f0fd493",
     "8b8cfa1a-e528-4cd3-af2b-717cb483bbcc",
+    "fd826506-eb6e-4b81-912d-a00b7ea928d1",
     "4147ff1c-1f8f-4ade-87fb-53d94ef34c96",
     "4187945f-23a1-4ca6-82c4-9b1771eae423",
     "3661cd65-6310-40be-af83-04b4cdab34d2",
     "ae55f694-5f55-4583-a4fb-9e28dba7a422",
     "b18627a1-7ce9-40d3-8998-4df1e67b95dc",
-    "newsletter",
-    "fd826506-eb6e-4b81-912d-a00b7ea928d1"
+    "newsletter"
   ]
 }
